@@ -1,0 +1,24 @@
+{
+  "es": {
+
+    "SERVER_ERROR": "Error de conexión",
+    "AUTHENTICATE_FAIL": "email o clave erroneo",
+    "USER_NOT_FOUND": "Usuario no encontrado",
+    "INVALID_TOKEN": "Token no valido",
+    "USER_NO_CREATE": "Error al registrar un nuevo usuario",
+    "NO_TOKEN": "No se ha introducido ningun Token",
+    "UNKNOWN": "Error desconocido"
+
+  },
+  "en": {
+
+    "SERVER_ERROR": "Error de conexión",
+    "AUTHENTICATE_FAIL": "email or password wrong",
+    "USER_NOT_FOUND": "User not found",
+    "INVALID_TOKEN": "Invalid Token",
+    "USER_NO_CREATE": "Error Register new user",
+    "NO_TOKEN": "Token not found",
+    "UNKNOWN": "unknown error"
+
+  }
+}
