@@ -5,7 +5,7 @@ API de venta y busqueda de anuncios de segunda mano que da servicio a dispositiv
 
 ###Instrucciones de como usar Nodepop
 
-##Instalar dependencias
+###Instalar dependencias
 
 Para continuar desarrollando en otro equipo será necesario instalar dependencias del módulo npm, ejecutar:
 
@@ -13,7 +13,7 @@ Para continuar desarrollando en otro equipo será necesario instalar dependencia
 
 
 
- ##Inicializar la BD
+ ###Inicializar la BD
 
  - Desde el servidor de BD navegar por consola hasta la ruta donde se encuentre la carpeta data de mongodb
  ejecutar script **. /startMongo.sh** para *inicializar* la base de datos de nodepop
