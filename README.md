@@ -13,15 +13,14 @@ Para continuar desarrollando en otro equipo será necesario instalar dependencia
 
 
 
- ###Inicializar la BD
+###Inicializar la BD
 
  - Desde el servidor de BD navegar por consola hasta la ruta donde se encuentre la carpeta data de mongodb
  ejecutar script **. /startMongo.sh** para *inicializar* la base de datos de nodepop
 
 
 
-
-##Inicializar la BD con Script de carga
+###Inicializar la BD con Script de carga
 
 Se puede ejecutar un script de ejemplo con una carga mínima de datos, para cargalos datos por defecto ejecutar:
 
@@ -30,7 +29,7 @@ Se puede ejecutar un script de ejemplo con una carga mínima de datos, para carg
 
 
 
- ##Modos de arranque
+##Modos de arranque
 
  - Para arrancar nodepop en modo *DEBUG* basta con lanzar
 
